@@ -1,0 +1,6 @@
+{
+  "name": "Gourmet Showcase & Pitch Builder",
+  "description": "A high-performance offline-first restaurant demo website featuring an interactive menu, table booking simulator, and a live pitch customizer to help showcase web design services to restaurant owners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
