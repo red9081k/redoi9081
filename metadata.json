@@ -1,6 +1,6 @@
 {
-  "name": "Gourmet Showcase & Pitch Builder",
-  "description": "A high-performance offline-first restaurant demo website featuring an interactive menu, table booking simulator, and a live pitch customizer to help showcase web design services to restaurant owners.",
-  "requestFramePermissions": [],
+  "name": "Najd Village Restaurant",
+  "description": "An elegant, comprehensive cultural website for the famous Najd Village restaurant in Riyadh. Includes interactive heritage dining menus, realistic customer review systems, reservation bookings, and real-time branch locations using integrated Google Maps.",
+  "requestFramePermissions": ["geolocation"],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
